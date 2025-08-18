@@ -94,3 +94,27 @@ Somar os elementos e caso “estoure” a contagem, carregar 1 para a próxima c
 ------
   83𝐵6
 ```
+```
+  C53A
+ +57B2
+ -----
+ 11CEC
+```
+```
+  9BED
+ +F659
+ -----
+```
+
+### b) Subtração de números hexadecimais 
+Subtrair os elementos e caso “falte”, pegar carregar 1 para a próxima coluna  
+(o que equivale a 16)
+
+```
+  5𝐶12
+− 27𝐴4
+------
+  346𝐸
+``` 
+
+    
