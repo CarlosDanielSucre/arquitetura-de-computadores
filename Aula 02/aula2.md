@@ -116,5 +116,9 @@ Subtrair os elementos e caso “falte”, pegar carregar 1 para a próxima colun
 ------
   346𝐸
 ``` 
-
+```
+  FD9C
+ +ACAA
+ -----
+  50F2
     
