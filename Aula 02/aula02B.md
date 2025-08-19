@@ -36,3 +36,4 @@ A expressão booleana reduzida deve ser equivalente à expressão booleana.
 
 Teoremas de Boole: 
 ![alt text](image-3.png)
+
