@@ -34,3 +34,10 @@ Para multiplicar 1101 por 101:
 
 Portanto, 1101 * 101 = 100001. 
 Dica: É importante lembrar que a multiplicação por zero sempre resulta em zero, e a multiplicação por um não altera o número original. 
+
+## Regras para dividir
+### Regras rápidas:
+- Dividimos como no decimal: vemos quantas vezes o divisor “cabe” nos primeiros bits do dividendo.
+- Subtraímos e trazemos o próximo bit.
+- Continuamos até acabar todos os bits.
+- O que sobra é o resto.
